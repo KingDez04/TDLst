@@ -14,7 +14,7 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 - **JavaScript**: For the functionality of the application.
 
 ## Demo
-[Click here to see thelive demo](https://ademolaademeso-tdlst.vercel.app)
+[Click here to see the live demo](https://ademolaademeso-tdlst.vercel.app)
 
 ## Screenshots
 
@@ -35,7 +35,7 @@ You need a web browser to run this application.
 
 2. **Navigate to the project directory:**
     ```bash
-    cd todo-list
+    cd TDLst
     ```
 
 3. **Open the index.html file in your web browser:**
